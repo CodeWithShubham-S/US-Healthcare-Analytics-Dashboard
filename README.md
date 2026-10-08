@@ -23,19 +23,19 @@ An end-to-end healthcare data analytics and financial optimization project analy
 
 ### 1. Executive Management Dashboard
 > High-level KPI scorecards, medical condition billing bar charts, admission distribution donut chart, and insurance revenue column charts.
-![Executive Dashboard](screenshots/Executive_dashboard.png)
+![Executive Dashboard](Executive_dashboard.png)
 
 ### 2. Price Optimization Matrix
 > Cross-tabulated multi-variable analysis showing average billing across age cohorts and condition categories.
-![Price Optimization Matrix](screenshots/price_Optimization.png)
+![Price Optimization Matrix](price_Optimization.png)
 
 ### 3. Demographic & Clinical Breakdown
 > Patient segmentation by gender, chronic condition burden, and age cohorts.
-![Demographic Analysis](screenshots/demographics.png)
+![Demographic Analysis](Demographics.png)
 
 ### 4. Hospital Resource Management
 > Spot trends in how/when patients are admitted to better use hospital resources (staff, rooms).
-![Hospital Resource Management](screenshots/Hospital_Management.png)
+![Hospital Resource Management](Hospital_Management.png)
 ---
 
 ## 🔍 Key Business & Clinical Insights
