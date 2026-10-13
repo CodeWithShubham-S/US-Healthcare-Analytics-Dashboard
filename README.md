@@ -27,7 +27,7 @@ An end-to-end healthcare data analytics and financial optimization project analy
 
 ### 2. Price Optimization Matrix
 > Cross-tabulated multi-variable analysis showing average billing across age cohorts and condition categories.
-![Price Optimization Matrix](Price Optimization.png)
+![Price Optimization Matrix](screenshots/price_optimization.png)
 
 ### 3. Demographic & Clinical Breakdown
 > Patient segmentation by gender, chronic condition burden, and age cohorts.
@@ -35,7 +35,7 @@ An end-to-end healthcare data analytics and financial optimization project analy
 
 ### 4. Hospital Resource Management
 > Spot trends in how/when patients are admitted to better use hospital resources (staff, rooms).
-![Hospital Resource Management](Hospital_Management.png)
+![Hospital Resource Management](screenshots/hospital_resource.png)
 ---
 
 ## 🔍 Key Business & Clinical Insights
